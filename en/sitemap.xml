@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ClaudiaJKang.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ClaudiaJKang.github.io/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ClaudiaJKang.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ClaudiaJKang.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ClaudiaJKang.github.io/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ClaudiaJKang.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ClaudiaJKang.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://ClaudiaJKang.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ClaudiaJKang.github.io/tags/"
+                />
+  </url>
+  
+</urlset>
