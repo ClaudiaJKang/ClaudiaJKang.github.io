@@ -3,44 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ClaudiaJKang.github.io/categories/</loc>
+    <loc>https://claudiajkang.com/about/</loc>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ClaudiaJKang.github.io/ko/categories/"
+                href="https://claudiajkang.com/ko/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ClaudiaJKang.github.io/categories/"
+                href="https://claudiajkang.com/about/"
                 />
   </url>
   
   <url>
-    <loc>https://ClaudiaJKang.github.io/</loc>
+    <loc>https://claudiajkang.com/</loc>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ClaudiaJKang.github.io/ko/"
+                href="https://claudiajkang.com/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ClaudiaJKang.github.io/"
+                href="https://claudiajkang.com/"
                 />
   </url>
   
   <url>
-    <loc>https://ClaudiaJKang.github.io/tags/</loc>
+    <loc>https://claudiajkang.com/posts/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://claudiajkang.com/posts/rabbitmq/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://claudiajkang.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ClaudiaJKang.github.io/ko/tags/"
+                href="https://claudiajkang.com/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ClaudiaJKang.github.io/tags/"
+                href="https://claudiajkang.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://claudiajkang.com/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://claudiajkang.com/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://claudiajkang.com/tags/"
                 />
   </url>
   

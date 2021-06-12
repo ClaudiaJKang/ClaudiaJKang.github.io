@@ -3,44 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ClaudiaJKang.github.io/ko/categories/</loc>
+    <loc>https://claudiajkang.com/ko/</loc>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ClaudiaJKang.github.io/categories/"
+                href="https://claudiajkang.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ClaudiaJKang.github.io/ko/categories/"
+                href="https://claudiajkang.com/ko/"
                 />
   </url>
   
   <url>
-    <loc>https://ClaudiaJKang.github.io/ko/</loc>
+    <loc>https://claudiajkang.com/ko/about/</loc>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ClaudiaJKang.github.io/"
+                href="https://claudiajkang.com/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ClaudiaJKang.github.io/ko/"
+                href="https://claudiajkang.com/ko/about/"
                 />
   </url>
   
   <url>
-    <loc>https://ClaudiaJKang.github.io/ko/tags/</loc>
+    <loc>https://claudiajkang.com/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ClaudiaJKang.github.io/tags/"
+                href="https://claudiajkang.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ClaudiaJKang.github.io/ko/tags/"
+                href="https://claudiajkang.com/ko/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://claudiajkang.com/ko/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://claudiajkang.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://claudiajkang.com/ko/tags/"
                 />
   </url>
   

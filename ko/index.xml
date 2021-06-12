@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Claudia J. Kang</title>
-    <link>https://ClaudiaJKang.github.io/ko/</link>
+    <link>https://claudiajkang.com/ko/</link>
     <description>Recent content on Claudia J. Kang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ClaudiaJKang.github.io/ko/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://claudiajkang.com/ko/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>소개</title>
+      <link>https://claudiajkang.com/ko/about/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://claudiajkang.com/ko/about/</guid>
+      <description>자기계발을 좋아하고, 주로 컴퓨터 관련이나 개인적인 문제 해결 경험을 공유합니다.</description>
+    </item>
     
   </channel>
 </rss>
